@@ -1,6 +1,6 @@
 Project Description:
 
-Web Browser developed in java using the javaFX libaray as a side project to practice UI/UX, event handling, and lambda notation.
+Web Browser developed in java using the javaFX library as a side project to practice UI/UX, event handling, and lambda notation.
 
 Usage:
  
