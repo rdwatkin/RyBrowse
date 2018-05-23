@@ -6,7 +6,7 @@ Usage:
  
 Download RyBrowse.jar and double click
 OR
-downlaod browse.class and in cmd or terminal
+Download browse.class and in cmd or terminal
 javac browse.class
 java browse
 
